@@ -16,7 +16,7 @@ A simple web app to search and explore recipes in real time using a public API.
 
 * HTML
 * CSS
-* JavaScript (Fetch API)
+* Vanilla JavaScript (Fetch API)
 
 ---
 
